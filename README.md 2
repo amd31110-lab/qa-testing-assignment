@@ -1,0 +1,23 @@
+QA Testing Assignment
+
+This repository contains:
+
+Manual Testing
+Automation Testing
+Load Testing
+
+Tools Used
+
+Playwright
+JMeter
+k6
+Prometheus
+
+Automation Flow
+
+1 Register new user
+2 Login
+3 Search product
+4 Open product page
+5 Add product to cart
+6 Verify cart count
