@@ -1,0 +1,11 @@
+JMeter API Test Plan
+
+Endpoint Tested:
+/api/products/search?q=pliers
+
+Users: 10
+Duration: 60 seconds
+
+Assertions
+Status Code = 200
+Response Time < 2 seconds
